@@ -7,5 +7,5 @@ spec:
   channel: alpha
   installPlanApproval: Automatic
   name: argocd-operator
-  source: community-operators
+  source: rh-offline-community-operator-catalog
   sourceNamespace: openshift-marketplace
